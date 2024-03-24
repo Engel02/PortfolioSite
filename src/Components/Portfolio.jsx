@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/projectImage.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Microsoft Student Ambassador",
+    description: "Member of the Microsoft Student Ambasaddor Program.",
+    url: "https://mvp.microsoft.com/studentambassadors/certificate/1b0c1071-07bb-464d-a58d-965b6a74e58f",
   },
   {
-    title: "Web Development for Beginners",
+    title: "GAN To Generate Faces",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A project based on the Generative Adversarial Networks to generate realistic faces with a CelebA dataset.",
+    url: "https://github.com/Engel02/GANFORFACES",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Front End G3-ONE",
+    description: " ORACLE Next Education & Alura Course.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Winner in the national hackathon FEPRO Mexico",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Winner of the national hackathon FEPRO with the app Nearbask, a web app to filter and compare near supermarkets and compare prices.",
+    url: "",
   },
 ];
 
